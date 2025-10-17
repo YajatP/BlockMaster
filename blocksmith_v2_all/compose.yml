@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  blocksmith:
+    build: .
+    working_dir: /app
+    volumes:
+      - .:/app
+    command: bash -lc "pytest -q && mypy blocksmith && ruff check ."
+    tty: true
