@@ -1,1 +1,0 @@
-"""BlockSmith v2"""
