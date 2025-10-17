@@ -1,4 +1,4 @@
-# BlockSmith — Learning to Build in Minecraft with scikit-learn
+# BlockMaster— Learning to Build in Minecraft with scikit-learn
 
 An end-to-end, portfolio-ready project where a Python agent connects to a local Minecraft server and **learns** (via behavior cloning) to place blocks and assemble basic structures (walls, pillars, hollow cubes).
 
